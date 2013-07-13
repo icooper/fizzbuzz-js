@@ -8,7 +8,7 @@
  *
  */
 
-function Int(n) {
+var Int = function (n) {
     this.value = n;
 }
 
